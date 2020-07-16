@@ -1,1 +1,1 @@
-FreeCodeCamp Product Landing Page https://amir-tarig.github.io/Product-Landing-Page/
+FreeCodeCamp Product Landing Page
